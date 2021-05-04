@@ -1,3 +1,3 @@
 # SQL
 
-###1. Creating tables
+### 1. Creating tables
