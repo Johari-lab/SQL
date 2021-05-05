@@ -1,3 +1,4 @@
+
 /*Start by building the schema and populating your MySQL database sandbox with the following:*/
 CREATE TABLE rating (
     id INT,
@@ -32,6 +33,7 @@ FROM rating;
 /*2. Find the maximum value of total_ratings of all of the applications within the rating table*/
 SELECT MAX(total_ratings)
 FROM rating;
+
 
 /*3. Find the average prices grouped by genre within the rating table*/
 SELECT genre, AVG(price)
