@@ -1,11 +1,13 @@
 # MySQL CHALLENGES
 
-### 1. Creating tables
+### Topics 
 
-### 2. Adding data
+** 1. Creating tables
 
-### 3. Basic queries: SELECT
+** 2. Adding data
 
-### 4. Aggregation functions: SUM(), MAX(), AVG()
+** 3. Basic queries: SELECT
 
-### 5. Grouping data: GROUP BY query
+** 4. Aggregation functions: SUM(), MAX(), AVG()
+
+** 5. Grouping data: GROUP BY query
