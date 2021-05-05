@@ -2,12 +2,12 @@
 
 ### Topics 
 
-** 1. Creating tables
+**1. Creating tables
 
-** 2. Adding data
+**2. Adding data
 
-** 3. Basic queries: SELECT
+**3. Basic queries: SELECT
 
-** 4. Aggregation functions: SUM(), MAX(), AVG()
+**4. Aggregation functions: SUM(), MAX(), AVG()
 
-** 5. Grouping data: GROUP BY query
+**5. Grouping data: GROUP BY query
