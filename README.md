@@ -1,6 +1,6 @@
 # MySQL CHALLENGES
 
-### Topics 
+### Topics:
 
 **1. Creating tables**
 
