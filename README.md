@@ -19,3 +19,7 @@
 **- Find the maximum value of total_ratings of all of the applications within the rating table**
 
 **- Find the average prices grouped by genre within the rating table**
+
+### SQL Fiddle:
+
+http://sqlfiddle.com/#!9/9a9f67/6
