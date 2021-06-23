@@ -7,7 +7,7 @@ CREATE TABLE rating (
     price DECIMAL(5,2),
     total_ratings DECIMAL(2,1),
     genre VARCHAR(50)
-);
+)
 
 /*Now let's add some rows of data to this empty table!*/
 INSERT INTO rating (id, app_name, app_size, price, total_ratings, genre) 
